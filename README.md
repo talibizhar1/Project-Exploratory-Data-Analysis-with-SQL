@@ -1,4 +1,4 @@
-# Project-Exploratory-Data-Analysis-with-SQL
+# Project: Exploratory Data Analysis with SQL
 ## Introduction
 This project is part of the course SQL: A Practical Introduction for Querying Databases. Here is the source. I will be answering the questions asked on MySQL. I have mentioned the first taks here.
 ### *Scenario*
