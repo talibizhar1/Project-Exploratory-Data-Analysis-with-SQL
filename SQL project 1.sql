@@ -1,6 +1,6 @@
 /****Task II: Write and execute queries to analyze the data****/
--- Problem 1
--- Find the total number of crimes recorded in the CRIME table.
+/*Problem 1*/
+/*Find the total number of crimes recorded in the CRIME table.*/
 SELECT COUNT(DISTINCT case_number) AS total_crime FROM chicago_crime_data;
 /*Counting rows will give the same result as there are no duplicates*/
 SELECT COUNT(*) total_rows FROM chicago_crime_data;
